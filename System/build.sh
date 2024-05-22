@@ -99,7 +99,7 @@ setupEnv() {
 build() {
     echo "--> Building DogDayAndroid"
     export RELEASE_TYPE=RELEASE
-    lunch lineage_thyme-userdebug
+    lunch lineage_bluejay-userdebug
     croot
     mka clobber
     mka bacon -j$(( $(nproc --all) / 2 )) 2>&1 | tee build.log
