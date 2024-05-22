@@ -82,7 +82,7 @@ applyPatches() {
     # Device camouflage patch
     python $ROOT/Patches/apply.py $ROOT/LineageOS $ROOT/Patches/LineageOS/mask
     # Custom recovery patch
-    python $ROOT/Patches/apply.py $ROOT/LineageOS $ROOT/Patches/LineageOS/custom_recovery
+    # python $ROOT/Patches/apply.py $ROOT/LineageOS $ROOT/Patches/LineageOS/custom_recovery
     echo
 }
 
