@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
+      "name": "bluejay",
       "repo": "https://github.com/ViP3R-KERNELs/kernel_google_bluejay",
       "branch": "main",
       "device": "bluejay",
