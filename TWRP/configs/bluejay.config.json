@@ -5,11 +5,10 @@
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
-            "Branch": "android-13",
+            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_pixel_bluejay"
             "Location": "device/xiaomi/thyme",
             "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
+            "Makefile": "twrp_bluejay",
             "BootPartition": "boot"
         }
     }
